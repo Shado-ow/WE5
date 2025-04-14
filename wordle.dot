@@ -1,0 +1,5 @@
+digraph G {
+
+"A" -> "B" [label=<This is my label <br/> It has line breaks. I<FONT COLOR="Red">love</FONT>  background<br/>Colors.>]
+
+}

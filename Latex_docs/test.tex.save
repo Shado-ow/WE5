@@ -1,0 +1,38 @@
+
+\documentclass{article}
+
+\title{My first Document on Latex}
+
+\author{Sanya Vashist}
+
+
+
+\begin{document}
+
+\maketitle
+
+\section{Intro}
+\subsection{overview: what should you know?}
+
+Hello world!
+
+\begin{equation}
+y = x^2 
+some numbers typed are 1 2 3 4 567 9.8
+
+\end{equation}
+
+the same text written outside the equation braces
+$y = x^2$
+some numbers typed are $1 2 3 4 567 9.8$
+
+\section{methods}
+
+\subsection{i have no clue what's happening}
+
+\section{conclusion}
+
+
+
+\end{document}
+
